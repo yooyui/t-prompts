@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(claude:*)",
+      "Bash(npm update:*)",
+      "Bash(dir \".claude\\commands\" /B)",
+      "Bash(dir \"claude-prompts\" /B)",
+      "Bash(dir:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
